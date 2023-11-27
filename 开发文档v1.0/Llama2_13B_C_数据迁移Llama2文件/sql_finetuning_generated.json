@@ -1,0 +1,1000 @@
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 49", "input": "", "output": "SELECT * FROM customers WHERE email <> 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 58", "input": "", "output": "SELECT * FROM employees WHERE salary < 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 不等于 98", "input": "", "output": "SELECT * FROM customers WHERE customer_id <> 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 84", "input": "", "output": "SELECT * FROM departments WHERE department_name = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 53", "input": "", "output": "SELECT * FROM products WHERE category = 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 不等于 51", "input": "", "output": "SELECT * FROM employees WHERE salary <> 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 大于 6", "input": "", "output": "SELECT * FROM orders WHERE product_name > 6;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 大于 60", "input": "", "output": "SELECT * FROM departments WHERE department_id > 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 96", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 1", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 33", "input": "", "output": "SELECT * FROM departments WHERE department_name > 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 大于 42", "input": "", "output": "SELECT * FROM departments WHERE department_id > 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 92", "input": "", "output": "SELECT * FROM departments WHERE department_name > 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 92", "input": "", "output": "SELECT * FROM products WHERE category = 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 38", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 18", "input": "", "output": "SELECT * FROM events WHERE location = 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 大于 61", "input": "", "output": "SELECT * FROM students WHERE grade > 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 22", "input": "", "output": "SELECT * FROM customers WHERE email <> 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 等于 41", "input": "", "output": "SELECT * FROM classes WHERE room_number = 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 20", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 39", "input": "", "output": "SELECT * FROM customers WHERE last_name > 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 75", "input": "", "output": "SELECT * FROM customers WHERE email = 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 43", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 78", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 等于 69", "input": "", "output": "SELECT * FROM orders WHERE quantity = 69;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 大于 46", "input": "", "output": "SELECT * FROM departments WHERE department_id > 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 23", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 23;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 小于 24", "input": "", "output": "SELECT * FROM events WHERE date < 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 92", "input": "", "output": "SELECT * FROM products WHERE category > 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 不等于 82", "input": "", "output": "SELECT * FROM orders WHERE quantity <> 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 54", "input": "", "output": "SELECT * FROM products WHERE category < 54;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 大于 77", "input": "", "output": "SELECT * FROM departments WHERE department_id > 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 69", "input": "", "output": "SELECT * FROM students WHERE name > 69;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 小于 33", "input": "", "output": "SELECT * FROM events WHERE event_id < 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 不等于 31", "input": "", "output": "SELECT * FROM students WHERE name <> 31;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 72", "input": "", "output": "SELECT * FROM products WHERE category = 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 2", "input": "", "output": "SELECT * FROM products WHERE stock > 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 5", "input": "", "output": "SELECT * FROM events WHERE location < 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 65", "input": "", "output": "SELECT * FROM events WHERE event_name > 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 2", "input": "", "output": "SELECT * FROM departments WHERE department_id < 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 38", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 38", "input": "", "output": "SELECT * FROM students WHERE id < 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 59", "input": "", "output": "SELECT * FROM events WHERE event_id = 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 33", "input": "", "output": "SELECT * FROM events WHERE date = 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 67", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 100", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 60", "input": "", "output": "SELECT * FROM events WHERE date <> 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 88", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 小于 89", "input": "", "output": "SELECT * FROM products WHERE stock < 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 54", "input": "", "output": "SELECT * FROM employees WHERE last_name < 54;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 91", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 97", "input": "", "output": "SELECT * FROM events WHERE date <> 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 90", "input": "", "output": "SELECT * FROM events WHERE location < 90;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 小于 29", "input": "", "output": "SELECT * FROM classes WHERE room_number < 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 82", "input": "", "output": "SELECT * FROM departments WHERE department_name > 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 大于 87", "input": "", "output": "SELECT * FROM students WHERE grade > 87;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 33", "input": "", "output": "SELECT * FROM employees WHERE first_name = 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 11", "input": "", "output": "SELECT * FROM orders WHERE price < 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 86", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 86;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 小于 16", "input": "", "output": "SELECT * FROM students WHERE age < 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 75", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 95", "input": "", "output": "SELECT * FROM orders WHERE price = 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 大于 48", "input": "", "output": "SELECT * FROM employees WHERE last_name > 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 小于 35", "input": "", "output": "SELECT * FROM customers WHERE last_name < 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 大于 92", "input": "", "output": "SELECT * FROM customers WHERE first_name > 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 7", "input": "", "output": "SELECT * FROM events WHERE location <> 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 小于 97", "input": "", "output": "SELECT * FROM employees WHERE first_name < 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 等于 52", "input": "", "output": "SELECT * FROM products WHERE stock = 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 不等于 38", "input": "", "output": "SELECT * FROM orders WHERE product_name <> 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 8", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 97", "input": "", "output": "SELECT * FROM students WHERE age = 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 14", "input": "", "output": "SELECT * FROM orders WHERE price < 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 小于 63", "input": "", "output": "SELECT * FROM customers WHERE last_name < 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 大于 28", "input": "", "output": "SELECT * FROM events WHERE date > 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 61", "input": "", "output": "SELECT * FROM customers WHERE email <> 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 100", "input": "", "output": "SELECT * FROM students WHERE age <> 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 95", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 72", "input": "", "output": "SELECT * FROM employees WHERE last_name < 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 大于 98", "input": "", "output": "SELECT * FROM orders WHERE quantity > 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 11", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 不等于 50", "input": "", "output": "SELECT * FROM employees WHERE last_name <> 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 大于 8", "input": "", "output": "SELECT * FROM orders WHERE quantity > 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 70", "input": "", "output": "SELECT * FROM events WHERE location = 70;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 7", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 43", "input": "", "output": "SELECT * FROM departments WHERE department_id < 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 不等于 17", "input": "", "output": "SELECT * FROM students WHERE name <> 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 17", "input": "", "output": "SELECT * FROM employees WHERE salary < 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 1", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 36", "input": "", "output": "SELECT * FROM customers WHERE email < 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 75", "input": "", "output": "SELECT * FROM employees WHERE last_name < 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 大于 57", "input": "", "output": "SELECT * FROM events WHERE location > 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 92", "input": "", "output": "SELECT * FROM events WHERE event_id <> 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 不等于 41", "input": "", "output": "SELECT * FROM employees WHERE first_name <> 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 18", "input": "", "output": "SELECT * FROM customers WHERE email < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 73", "input": "", "output": "SELECT * FROM products WHERE product_id > 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 25", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 25;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 等于 84", "input": "", "output": "SELECT * FROM employees WHERE salary = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 4", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 63", "input": "", "output": "SELECT * FROM orders WHERE quantity < 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 95", "input": "", "output": "SELECT * FROM departments WHERE department_name > 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 等于 31", "input": "", "output": "SELECT * FROM students WHERE grade = 31;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 67", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 等于 21", "input": "", "output": "SELECT * FROM classes WHERE class_name = 21;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 小于 23", "input": "", "output": "SELECT * FROM classes WHERE class_name < 23;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 48", "input": "", "output": "SELECT * FROM orders WHERE product_name = 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 等于 49", "input": "", "output": "SELECT * FROM orders WHERE order_id = 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 38", "input": "", "output": "SELECT * FROM employees WHERE salary < 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 小于 33", "input": "", "output": "SELECT * FROM events WHERE date < 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 不等于 100", "input": "", "output": "SELECT * FROM products WHERE category <> 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 12", "input": "", "output": "SELECT * FROM employees WHERE first_name = 12;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 不等于 54", "input": "", "output": "SELECT * FROM students WHERE name <> 54;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 65", "input": "", "output": "SELECT * FROM products WHERE category > 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 大于 19", "input": "", "output": "SELECT * FROM orders WHERE product_name > 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 大于 63", "input": "", "output": "SELECT * FROM classes WHERE room_number > 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 54", "input": "", "output": "SELECT * FROM students WHERE id < 54;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 等于 99", "input": "", "output": "SELECT * FROM employees WHERE salary = 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 不等于 4", "input": "", "output": "SELECT * FROM orders WHERE product_name <> 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 不等于 20", "input": "", "output": "SELECT * FROM customers WHERE customer_id <> 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 大于 64", "input": "", "output": "SELECT * FROM classes WHERE class_id > 64;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 大于 50", "input": "", "output": "SELECT * FROM employees WHERE first_name > 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 38", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 26", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 82", "input": "", "output": "SELECT * FROM products WHERE product_name <> 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 95", "input": "", "output": "SELECT * FROM customers WHERE last_name = 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 3", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 13", "input": "", "output": "SELECT * FROM students WHERE age = 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 小于 62", "input": "", "output": "SELECT * FROM products WHERE product_name < 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 50", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 大于 46", "input": "", "output": "SELECT * FROM orders WHERE quantity > 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 3", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 8", "input": "", "output": "SELECT * FROM orders WHERE quantity < 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 等于 39", "input": "", "output": "SELECT * FROM products WHERE stock = 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 大于 62", "input": "", "output": "SELECT * FROM orders WHERE quantity > 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 44", "input": "", "output": "SELECT * FROM orders WHERE price > 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 82", "input": "", "output": "SELECT * FROM events WHERE event_id = 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 59", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 81", "input": "", "output": "SELECT * FROM events WHERE location < 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 25", "input": "", "output": "SELECT * FROM customers WHERE last_name > 25;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 50", "input": "", "output": "SELECT * FROM customers WHERE email = 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 小于 8", "input": "", "output": "SELECT * FROM customers WHERE first_name < 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 19", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 87", "input": "", "output": "SELECT * FROM orders WHERE price > 87;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 19", "input": "", "output": "SELECT * FROM customers WHERE email > 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 23", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 23;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 等于 55", "input": "", "output": "SELECT * FROM classes WHERE class_name = 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 44", "input": "", "output": "SELECT * FROM departments WHERE department_id < 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 70", "input": "", "output": "SELECT * FROM students WHERE id > 70;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 42", "input": "", "output": "SELECT * FROM students WHERE age = 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 84", "input": "", "output": "SELECT * FROM orders WHERE quantity < 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 85", "input": "", "output": "SELECT * FROM orders WHERE price = 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 小于 43", "input": "", "output": "SELECT * FROM products WHERE stock < 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 24", "input": "", "output": "SELECT * FROM customers WHERE first_name = 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 大于 61", "input": "", "output": "SELECT * FROM orders WHERE order_id > 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 62", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 29", "input": "", "output": "SELECT * FROM events WHERE event_name < 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 不等于 82", "input": "", "output": "SELECT * FROM students WHERE name <> 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 63", "input": "", "output": "SELECT * FROM students WHERE grade <> 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 81", "input": "", "output": "SELECT * FROM customers WHERE first_name = 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 40", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 17", "input": "", "output": "SELECT * FROM departments WHERE department_name = 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 大于 34", "input": "", "output": "SELECT * FROM events WHERE event_id > 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 72", "input": "", "output": "SELECT * FROM events WHERE event_name = 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 67", "input": "", "output": "SELECT * FROM students WHERE name < 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 35", "input": "", "output": "SELECT * FROM students WHERE id > 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 76", "input": "", "output": "SELECT * FROM employees WHERE salary < 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 38", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 大于 96", "input": "", "output": "SELECT * FROM customers WHERE first_name > 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 60", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 小于 6", "input": "", "output": "SELECT * FROM customers WHERE last_name < 6;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 不等于 82", "input": "", "output": "SELECT * FROM employees WHERE salary <> 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 3", "input": "", "output": "SELECT * FROM events WHERE event_name = 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 56", "input": "", "output": "SELECT * FROM classes WHERE class_id = 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 小于 35", "input": "", "output": "SELECT * FROM customers WHERE customer_id < 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 55", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 不等于 52", "input": "", "output": "SELECT * FROM products WHERE stock <> 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 47", "input": "", "output": "SELECT * FROM students WHERE age = 47;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 18", "input": "", "output": "SELECT * FROM students WHERE name < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 30", "input": "", "output": "SELECT * FROM events WHERE event_id = 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 89", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 39", "input": "", "output": "SELECT * FROM customers WHERE email > 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 大于 77", "input": "", "output": "SELECT * FROM employees WHERE salary > 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 等于 70", "input": "", "output": "SELECT * FROM classes WHERE class_name = 70;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 69", "input": "", "output": "SELECT * FROM customers WHERE first_name = 69;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 小于 59", "input": "", "output": "SELECT * FROM products WHERE product_name < 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 34", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 3", "input": "", "output": "SELECT * FROM departments WHERE department_name > 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 48", "input": "", "output": "SELECT * FROM students WHERE name > 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 不等于 11", "input": "", "output": "SELECT * FROM employees WHERE last_name <> 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 18", "input": "", "output": "SELECT * FROM events WHERE location = 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 不等于 33", "input": "", "output": "SELECT * FROM classes WHERE room_number <> 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 5", "input": "", "output": "SELECT * FROM students WHERE age = 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 99", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 88", "input": "", "output": "SELECT * FROM departments WHERE department_name > 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 大于 42", "input": "", "output": "SELECT * FROM events WHERE event_id > 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 等于 73", "input": "", "output": "SELECT * FROM orders WHERE order_id = 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 不等于 8", "input": "", "output": "SELECT * FROM customers WHERE customer_id <> 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 74", "input": "", "output": "SELECT * FROM products WHERE category < 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 21", "input": "", "output": "SELECT * FROM students WHERE id = 21;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 36", "input": "", "output": "SELECT * FROM orders WHERE quantity < 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 34", "input": "", "output": "SELECT * FROM events WHERE date <> 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 33", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 80", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 等于 47", "input": "", "output": "SELECT * FROM products WHERE stock = 47;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 30", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 33", "input": "", "output": "SELECT * FROM events WHERE date = 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 92", "input": "", "output": "SELECT * FROM customers WHERE email <> 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 20", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 16", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 4", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 44", "input": "", "output": "SELECT * FROM orders WHERE price = 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 85", "input": "", "output": "SELECT * FROM events WHERE location = 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 小于 54", "input": "", "output": "SELECT * FROM customers WHERE first_name < 54;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 99", "input": "", "output": "SELECT * FROM events WHERE location < 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 36", "input": "", "output": "SELECT * FROM orders WHERE product_name = 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 74", "input": "", "output": "SELECT * FROM customers WHERE email > 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 52", "input": "", "output": "SELECT * FROM students WHERE grade <> 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 49", "input": "", "output": "SELECT * FROM students WHERE id <> 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 大于 89", "input": "", "output": "SELECT * FROM orders WHERE order_id > 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 11", "input": "", "output": "SELECT * FROM departments WHERE department_name > 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 48", "input": "", "output": "SELECT * FROM employees WHERE salary < 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 不等于 88", "input": "", "output": "SELECT * FROM orders WHERE quantity <> 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 31", "input": "", "output": "SELECT * FROM products WHERE category < 31;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 小于 21", "input": "", "output": "SELECT * FROM products WHERE stock < 21;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 81", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 10", "input": "", "output": "SELECT * FROM products WHERE category < 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 90", "input": "", "output": "SELECT * FROM events WHERE event_name < 90;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 14", "input": "", "output": "SELECT * FROM students WHERE age = 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 71", "input": "", "output": "SELECT * FROM products WHERE product_id = 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 56", "input": "", "output": "SELECT * FROM events WHERE event_id = 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 27", "input": "", "output": "SELECT * FROM products WHERE product_id > 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 90", "input": "", "output": "SELECT * FROM events WHERE event_name = 90;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 小于 38", "input": "", "output": "SELECT * FROM events WHERE event_id < 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 91", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 等于 13", "input": "", "output": "SELECT * FROM students WHERE name = 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 26", "input": "", "output": "SELECT * FROM orders WHERE price = 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 小于 18", "input": "", "output": "SELECT * FROM students WHERE grade < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 98", "input": "", "output": "SELECT * FROM products WHERE product_id > 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 大于 73", "input": "", "output": "SELECT * FROM classes WHERE teacher_id > 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 不等于 10", "input": "", "output": "SELECT * FROM employees WHERE last_name <> 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 等于 30", "input": "", "output": "SELECT * FROM orders WHERE quantity = 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 不等于 20", "input": "", "output": "SELECT * FROM employees WHERE salary <> 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 88", "input": "", "output": "SELECT * FROM products WHERE product_id > 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 10", "input": "", "output": "SELECT * FROM employees WHERE last_name < 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 60", "input": "", "output": "SELECT * FROM orders WHERE price = 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 94", "input": "", "output": "SELECT * FROM employees WHERE last_name = 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 44", "input": "", "output": "SELECT * FROM departments WHERE department_name < 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 85", "input": "", "output": "SELECT * FROM customers WHERE last_name = 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 94", "input": "", "output": "SELECT * FROM customers WHERE email > 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 32", "input": "", "output": "SELECT * FROM customers WHERE email <> 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 1", "input": "", "output": "SELECT * FROM employees WHERE first_name = 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 13", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 36", "input": "", "output": "SELECT * FROM events WHERE event_name < 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 34", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 48", "input": "", "output": "SELECT * FROM events WHERE event_name > 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 76", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 51", "input": "", "output": "SELECT * FROM customers WHERE email = 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 85", "input": "", "output": "SELECT * FROM events WHERE event_name > 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 32", "input": "", "output": "SELECT * FROM products WHERE product_name <> 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 小于 66", "input": "", "output": "SELECT * FROM classes WHERE room_number < 66;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 小于 13", "input": "", "output": "SELECT * FROM orders WHERE order_id < 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 42", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 小于 30", "input": "", "output": "SELECT * FROM students WHERE grade < 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 大于 80", "input": "", "output": "SELECT * FROM events WHERE event_id > 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 44", "input": "", "output": "SELECT * FROM customers WHERE email < 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 39", "input": "", "output": "SELECT * FROM customers WHERE last_name = 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 19", "input": "", "output": "SELECT * FROM orders WHERE price > 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 大于 76", "input": "", "output": "SELECT * FROM classes WHERE teacher_id > 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 84", "input": "", "output": "SELECT * FROM employees WHERE last_name = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 92", "input": "", "output": "SELECT * FROM products WHERE category = 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 不等于 76", "input": "", "output": "SELECT * FROM products WHERE category <> 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 小于 66", "input": "", "output": "SELECT * FROM orders WHERE order_id < 66;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 等于 49", "input": "", "output": "SELECT * FROM classes WHERE room_number = 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 小于 28", "input": "", "output": "SELECT * FROM classes WHERE class_id < 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 62", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 不等于 74", "input": "", "output": "SELECT * FROM classes WHERE teacher_id <> 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 69", "input": "", "output": "SELECT * FROM products WHERE category > 69;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 不等于 4", "input": "", "output": "SELECT * FROM products WHERE stock <> 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 大于 59", "input": "", "output": "SELECT * FROM events WHERE date > 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 不等于 60", "input": "", "output": "SELECT * FROM classes WHERE class_id <> 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 不等于 83", "input": "", "output": "SELECT * FROM classes WHERE class_name <> 83;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 100", "input": "", "output": "SELECT * FROM customers WHERE last_name > 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 54", "input": "", "output": "SELECT * FROM students WHERE id <> 54;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 不等于 42", "input": "", "output": "SELECT * FROM classes WHERE teacher_id <> 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 不等于 4", "input": "", "output": "SELECT * FROM orders WHERE quantity <> 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 63", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 59", "input": "", "output": "SELECT * FROM events WHERE location <> 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 88", "input": "", "output": "SELECT * FROM students WHERE name > 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 43", "input": "", "output": "SELECT * FROM employees WHERE last_name = 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 5", "input": "", "output": "SELECT * FROM orders WHERE price < 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 63", "input": "", "output": "SELECT * FROM products WHERE product_id = 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 不等于 94", "input": "", "output": "SELECT * FROM products WHERE category <> 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 65", "input": "", "output": "SELECT * FROM products WHERE stock > 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 76", "input": "", "output": "SELECT * FROM events WHERE event_name <> 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 大于 13", "input": "", "output": "SELECT * FROM classes WHERE class_name > 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 小于 79", "input": "", "output": "SELECT * FROM employees WHERE first_name < 79;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 2", "input": "", "output": "SELECT * FROM products WHERE category = 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 59", "input": "", "output": "SELECT * FROM departments WHERE department_name < 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 82", "input": "", "output": "SELECT * FROM customers WHERE last_name = 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 72", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 60", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 30", "input": "", "output": "SELECT * FROM customers WHERE last_name > 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 72", "input": "", "output": "SELECT * FROM products WHERE stock > 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 41", "input": "", "output": "SELECT * FROM employees WHERE salary < 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 47", "input": "", "output": "SELECT * FROM customers WHERE first_name = 47;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 53", "input": "", "output": "SELECT * FROM products WHERE product_id > 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 58", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 12", "input": "", "output": "SELECT * FROM customers WHERE first_name = 12;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 96", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 大于 88", "input": "", "output": "SELECT * FROM orders WHERE quantity > 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 等于 88", "input": "", "output": "SELECT * FROM students WHERE name = 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 82", "input": "", "output": "SELECT * FROM products WHERE category = 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 70", "input": "", "output": "SELECT * FROM customers WHERE last_name = 70;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 27", "input": "", "output": "SELECT * FROM events WHERE event_name <> 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 17", "input": "", "output": "SELECT * FROM events WHERE event_name = 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 89", "input": "", "output": "SELECT * FROM events WHERE date = 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 13", "input": "", "output": "SELECT * FROM orders WHERE product_name < 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 11", "input": "", "output": "SELECT * FROM students WHERE age = 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 76", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 85", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 不等于 11", "input": "", "output": "SELECT * FROM employees WHERE first_name <> 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 等于 89", "input": "", "output": "SELECT * FROM students WHERE name = 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 大于 68", "input": "", "output": "SELECT * FROM customers WHERE first_name > 68;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 8", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 19", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 小于 95", "input": "", "output": "SELECT * FROM classes WHERE room_number < 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 1", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 小于 16", "input": "", "output": "SELECT * FROM classes WHERE class_name < 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 48", "input": "", "output": "SELECT * FROM customers WHERE email < 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 等于 88", "input": "", "output": "SELECT * FROM departments WHERE department_id = 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 不等于 80", "input": "", "output": "SELECT * FROM employees WHERE first_name <> 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 大于 53", "input": "", "output": "SELECT * FROM events WHERE event_id > 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 10", "input": "", "output": "SELECT * FROM students WHERE grade <> 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 88", "input": "", "output": "SELECT * FROM events WHERE event_name < 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 64", "input": "", "output": "SELECT * FROM employees WHERE salary < 64;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 小于 92", "input": "", "output": "SELECT * FROM customers WHERE customer_id < 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 27", "input": "", "output": "SELECT * FROM customers WHERE email = 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 95", "input": "", "output": "SELECT * FROM employees WHERE last_name < 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 不等于 91", "input": "", "output": "SELECT * FROM classes WHERE room_number <> 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 14", "input": "", "output": "SELECT * FROM customers WHERE email < 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 大于 43", "input": "", "output": "SELECT * FROM orders WHERE quantity > 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 3", "input": "", "output": "SELECT * FROM events WHERE event_name = 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 72", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 小于 18", "input": "", "output": "SELECT * FROM classes WHERE class_name < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 小于 91", "input": "", "output": "SELECT * FROM classes WHERE class_id < 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 70", "input": "", "output": "SELECT * FROM departments WHERE department_id < 70;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 13", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 不等于 71", "input": "", "output": "SELECT * FROM products WHERE stock <> 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 71", "input": "", "output": "SELECT * FROM customers WHERE email <> 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 14", "input": "", "output": "SELECT * FROM events WHERE date = 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 3", "input": "", "output": "SELECT * FROM orders WHERE price = 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 29", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 47", "input": "", "output": "SELECT * FROM students WHERE id < 47;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 22", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 大于 41", "input": "", "output": "SELECT * FROM orders WHERE order_id > 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 等于 35", "input": "", "output": "SELECT * FROM classes WHERE room_number = 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 71", "input": "", "output": "SELECT * FROM events WHERE event_name > 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 14", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 3", "input": "", "output": "SELECT * FROM students WHERE age <> 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 8", "input": "", "output": "SELECT * FROM customers WHERE first_name = 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 36", "input": "", "output": "SELECT * FROM events WHERE event_id <> 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 98", "input": "", "output": "SELECT * FROM students WHERE name > 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 60", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 小于 72", "input": "", "output": "SELECT * FROM events WHERE event_id < 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 1", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 30", "input": "", "output": "SELECT * FROM products WHERE stock > 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 37", "input": "", "output": "SELECT * FROM events WHERE event_id = 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 小于 67", "input": "", "output": "SELECT * FROM students WHERE age < 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 2", "input": "", "output": "SELECT * FROM students WHERE id > 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 76", "input": "", "output": "SELECT * FROM events WHERE location = 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 小于 51", "input": "", "output": "SELECT * FROM products WHERE stock < 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 90", "input": "", "output": "SELECT * FROM students WHERE id > 90;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 82", "input": "", "output": "SELECT * FROM departments WHERE department_id < 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 95", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 92", "input": "", "output": "SELECT * FROM events WHERE event_name < 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 83", "input": "", "output": "SELECT * FROM products WHERE stock > 83;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 等于 10", "input": "", "output": "SELECT * FROM orders WHERE quantity = 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 67", "input": "", "output": "SELECT * FROM events WHERE event_name = 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 大于 63", "input": "", "output": "SELECT * FROM students WHERE grade > 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 47", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 47;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 15", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 15;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 74", "input": "", "output": "SELECT * FROM products WHERE category < 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 10", "input": "", "output": "SELECT * FROM orders WHERE price < 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 98", "input": "", "output": "SELECT * FROM employees WHERE first_name = 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 42", "input": "", "output": "SELECT * FROM products WHERE category = 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 不等于 37", "input": "", "output": "SELECT * FROM customers WHERE customer_id <> 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 78", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 不等于 16", "input": "", "output": "SELECT * FROM classes WHERE room_number <> 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 大于 79", "input": "", "output": "SELECT * FROM employees WHERE salary > 79;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 40", "input": "", "output": "SELECT * FROM departments WHERE department_name < 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 等于 81", "input": "", "output": "SELECT * FROM orders WHERE quantity = 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 等于 9", "input": "", "output": "SELECT * FROM classes WHERE room_number = 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 3", "input": "", "output": "SELECT * FROM classes WHERE class_id = 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 4", "input": "", "output": "SELECT * FROM orders WHERE quantity < 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 7", "input": "", "output": "SELECT * FROM products WHERE product_name > 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 小于 63", "input": "", "output": "SELECT * FROM orders WHERE order_id < 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 19", "input": "", "output": "SELECT * FROM orders WHERE price < 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 大于 88", "input": "", "output": "SELECT * FROM employees WHERE first_name > 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 61", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 48", "input": "", "output": "SELECT * FROM products WHERE category < 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 20", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 12", "input": "", "output": "SELECT * FROM departments WHERE department_name = 12;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 84", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 77", "input": "", "output": "SELECT * FROM customers WHERE email > 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 22", "input": "", "output": "SELECT * FROM products WHERE product_id = 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 77", "input": "", "output": "SELECT * FROM departments WHERE department_id < 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 91", "input": "", "output": "SELECT * FROM products WHERE product_name > 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 小于 81", "input": "", "output": "SELECT * FROM events WHERE event_id < 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 大于 46", "input": "", "output": "SELECT * FROM events WHERE location > 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 不等于 22", "input": "", "output": "SELECT * FROM customers WHERE customer_id <> 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 68", "input": "", "output": "SELECT * FROM customers WHERE first_name = 68;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 35", "input": "", "output": "SELECT * FROM orders WHERE product_name = 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 51", "input": "", "output": "SELECT * FROM products WHERE product_name > 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 大于 21", "input": "", "output": "SELECT * FROM orders WHERE product_name > 21;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 大于 93", "input": "", "output": "SELECT * FROM classes WHERE teacher_id > 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 78", "input": "", "output": "SELECT * FROM products WHERE product_name <> 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 37", "input": "", "output": "SELECT * FROM departments WHERE department_name > 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 等于 85", "input": "", "output": "SELECT * FROM orders WHERE order_id = 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 大于 51", "input": "", "output": "SELECT * FROM employees WHERE salary > 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 等于 65", "input": "", "output": "SELECT * FROM products WHERE stock = 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 74", "input": "", "output": "SELECT * FROM products WHERE category > 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 不等于 27", "input": "", "output": "SELECT * FROM classes WHERE room_number <> 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 49", "input": "", "output": "SELECT * FROM customers WHERE last_name = 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 88", "input": "", "output": "SELECT * FROM employees WHERE last_name < 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 2", "input": "", "output": "SELECT * FROM orders WHERE price < 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 39", "input": "", "output": "SELECT * FROM students WHERE grade <> 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 18", "input": "", "output": "SELECT * FROM events WHERE date <> 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 97", "input": "", "output": "SELECT * FROM orders WHERE price > 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 36", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 28", "input": "", "output": "SELECT * FROM products WHERE category > 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 99", "input": "", "output": "SELECT * FROM customers WHERE email = 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 71", "input": "", "output": "SELECT * FROM departments WHERE department_name > 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 小于 73", "input": "", "output": "SELECT * FROM classes WHERE class_name < 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 91", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 35", "input": "", "output": "SELECT * FROM employees WHERE salary < 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 73", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 72", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 不等于 49", "input": "", "output": "SELECT * FROM employees WHERE salary <> 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 34", "input": "", "output": "SELECT * FROM students WHERE id < 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 37", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 33", "input": "", "output": "SELECT * FROM events WHERE event_name < 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 33", "input": "", "output": "SELECT * FROM products WHERE product_id > 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 37", "input": "", "output": "SELECT * FROM orders WHERE price = 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 59", "input": "", "output": "SELECT * FROM events WHERE event_name = 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 大于 28", "input": "", "output": "SELECT * FROM customers WHERE first_name > 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 2", "input": "", "output": "SELECT * FROM students WHERE name < 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 不等于 52", "input": "", "output": "SELECT * FROM orders WHERE quantity <> 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 30", "input": "", "output": "SELECT * FROM events WHERE location = 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 17", "input": "", "output": "SELECT * FROM events WHERE location < 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 25", "input": "", "output": "SELECT * FROM students WHERE id <> 25;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 45", "input": "", "output": "SELECT * FROM orders WHERE price > 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 不等于 89", "input": "", "output": "SELECT * FROM orders WHERE quantity <> 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 96", "input": "", "output": "SELECT * FROM classes WHERE class_id = 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 小于 76", "input": "", "output": "SELECT * FROM classes WHERE class_id < 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 63", "input": "", "output": "SELECT * FROM products WHERE product_id = 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 小于 76", "input": "", "output": "SELECT * FROM events WHERE event_id < 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 58", "input": "", "output": "SELECT * FROM customers WHERE last_name = 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 等于 71", "input": "", "output": "SELECT * FROM products WHERE product_name = 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 86", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 86;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 小于 2", "input": "", "output": "SELECT * FROM events WHERE date < 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 9", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 24", "input": "", "output": "SELECT * FROM departments WHERE department_name = 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 等于 94", "input": "", "output": "SELECT * FROM departments WHERE department_id = 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 等于 97", "input": "", "output": "SELECT * FROM products WHERE product_name = 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 45", "input": "", "output": "SELECT * FROM products WHERE category < 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 小于 70", "input": "", "output": "SELECT * FROM products WHERE product_name < 70;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 47", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 47;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 53", "input": "", "output": "SELECT * FROM employees WHERE salary < 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 小于 97", "input": "", "output": "SELECT * FROM customers WHERE last_name < 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 43", "input": "", "output": "SELECT * FROM customers WHERE email <> 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 60", "input": "", "output": "SELECT * FROM departments WHERE department_name > 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 小于 17", "input": "", "output": "SELECT * FROM events WHERE event_id < 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 67", "input": "", "output": "SELECT * FROM customers WHERE last_name > 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 57", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 等于 62", "input": "", "output": "SELECT * FROM products WHERE product_name = 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 48", "input": "", "output": "SELECT * FROM products WHERE product_id = 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 74", "input": "", "output": "SELECT * FROM events WHERE event_id = 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 23", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 23;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 不等于 28", "input": "", "output": "SELECT * FROM classes WHERE room_number <> 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 78", "input": "", "output": "SELECT * FROM employees WHERE last_name = 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 小于 20", "input": "", "output": "SELECT * FROM customers WHERE first_name < 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 不等于 57", "input": "", "output": "SELECT * FROM employees WHERE first_name <> 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 小于 42", "input": "", "output": "SELECT * FROM students WHERE age < 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 不等于 81", "input": "", "output": "SELECT * FROM products WHERE category <> 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 93", "input": "", "output": "SELECT * FROM classes WHERE class_id = 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 37", "input": "", "output": "SELECT * FROM students WHERE age <> 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 8", "input": "", "output": "SELECT * FROM employees WHERE last_name = 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 小于 11", "input": "", "output": "SELECT * FROM students WHERE age < 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 58", "input": "", "output": "SELECT * FROM students WHERE grade <> 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 89", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 等于 100", "input": "", "output": "SELECT * FROM orders WHERE quantity = 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 6", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 6;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 等于 76", "input": "", "output": "SELECT * FROM employees WHERE salary = 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 80", "input": "", "output": "SELECT * FROM students WHERE id > 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 不等于 93", "input": "", "output": "SELECT * FROM orders WHERE price <> 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 32", "input": "", "output": "SELECT * FROM events WHERE location < 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 不等于 82", "input": "", "output": "SELECT * FROM products WHERE product_id <> 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 小于 42", "input": "", "output": "SELECT * FROM classes WHERE room_number < 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 不等于 95", "input": "", "output": "SELECT * FROM classes WHERE teacher_id <> 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 81", "input": "", "output": "SELECT * FROM events WHERE event_name < 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 9", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 36", "input": "", "output": "SELECT * FROM students WHERE id > 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 84", "input": "", "output": "SELECT * FROM events WHERE date = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 22", "input": "", "output": "SELECT * FROM orders WHERE product_name < 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 不等于 53", "input": "", "output": "SELECT * FROM customers WHERE customer_id <> 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 91", "input": "", "output": "SELECT * FROM products WHERE product_name > 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 66", "input": "", "output": "SELECT * FROM employees WHERE last_name = 66;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 等于 73", "input": "", "output": "SELECT * FROM products WHERE stock = 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 4", "input": "", "output": "SELECT * FROM products WHERE category > 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 小于 63", "input": "", "output": "SELECT * FROM students WHERE grade < 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 81", "input": "", "output": "SELECT * FROM products WHERE stock > 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 27", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 26", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 30", "input": "", "output": "SELECT * FROM students WHERE id <> 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 27", "input": "", "output": "SELECT * FROM events WHERE date = 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 26", "input": "", "output": "SELECT * FROM events WHERE event_name <> 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 41", "input": "", "output": "SELECT * FROM orders WHERE product_name = 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 小于 49", "input": "", "output": "SELECT * FROM products WHERE product_id < 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 76", "input": "", "output": "SELECT * FROM events WHERE event_name > 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 37", "input": "", "output": "SELECT * FROM customers WHERE email < 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 66", "input": "", "output": "SELECT * FROM events WHERE event_name <> 66;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 72", "input": "", "output": "SELECT * FROM products WHERE category > 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 59", "input": "", "output": "SELECT * FROM products WHERE stock > 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 26", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 29", "input": "", "output": "SELECT * FROM products WHERE category < 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 50", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 55", "input": "", "output": "SELECT * FROM customers WHERE last_name = 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 小于 97", "input": "", "output": "SELECT * FROM classes WHERE class_id < 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 57", "input": "", "output": "SELECT * FROM customers WHERE last_name = 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 65", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 88", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 大于 33", "input": "", "output": "SELECT * FROM students WHERE age > 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 大于 59", "input": "", "output": "SELECT * FROM classes WHERE class_name > 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 18", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 97", "input": "", "output": "SELECT * FROM products WHERE category = 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 97", "input": "", "output": "SELECT * FROM products WHERE category < 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 29", "input": "", "output": "SELECT * FROM orders WHERE product_name = 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 80", "input": "", "output": "SELECT * FROM departments WHERE department_name > 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 大于 68", "input": "", "output": "SELECT * FROM orders WHERE product_name > 68;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 55", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 45", "input": "", "output": "SELECT * FROM products WHERE product_name <> 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 大于 48", "input": "", "output": "SELECT * FROM events WHERE location > 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 91", "input": "", "output": "SELECT * FROM products WHERE product_name > 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 小于 86", "input": "", "output": "SELECT * FROM classes WHERE room_number < 86;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 小于 77", "input": "", "output": "SELECT * FROM products WHERE category < 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 7", "input": "", "output": "SELECT * FROM orders WHERE price = 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 等于 45", "input": "", "output": "SELECT * FROM products WHERE product_name = 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 45", "input": "", "output": "SELECT * FROM customers WHERE last_name = 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 小于 56", "input": "", "output": "SELECT * FROM products WHERE product_id < 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 75", "input": "", "output": "SELECT * FROM events WHERE location <> 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 51", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 73", "input": "", "output": "SELECT * FROM departments WHERE department_name < 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 50", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 52", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 不等于 64", "input": "", "output": "SELECT * FROM orders WHERE price <> 64;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 5", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 不等于 31", "input": "", "output": "SELECT * FROM employees WHERE last_name <> 31;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 小于 34", "input": "", "output": "SELECT * FROM customers WHERE first_name < 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 35", "input": "", "output": "SELECT * FROM events WHERE date <> 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 不等于 41", "input": "", "output": "SELECT * FROM employees WHERE last_name <> 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 不等于 91", "input": "", "output": "SELECT * FROM orders WHERE quantity <> 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 大于 20", "input": "", "output": "SELECT * FROM customers WHERE first_name > 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 17", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 小于 53", "input": "", "output": "SELECT * FROM classes WHERE room_number < 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 4", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 等于 92", "input": "", "output": "SELECT * FROM classes WHERE room_number = 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 96", "input": "", "output": "SELECT * FROM employees WHERE salary < 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 5", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 18", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 28", "input": "", "output": "SELECT * FROM customers WHERE email = 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 74", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 16", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 41", "input": "", "output": "SELECT * FROM events WHERE location <> 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 91", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 3", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 89", "input": "", "output": "SELECT * FROM events WHERE event_name > 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 小于 10", "input": "", "output": "SELECT * FROM classes WHERE class_id < 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 不等于 91", "input": "", "output": "SELECT * FROM employees WHERE last_name <> 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 大于 55", "input": "", "output": "SELECT * FROM classes WHERE class_id > 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 不等于 46", "input": "", "output": "SELECT * FROM classes WHERE class_name <> 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 22", "input": "", "output": "SELECT * FROM events WHERE event_name < 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 小于 11", "input": "", "output": "SELECT * FROM customers WHERE customer_id < 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 大于 79", "input": "", "output": "SELECT * FROM departments WHERE department_id > 79;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 53", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 25", "input": "", "output": "SELECT * FROM departments WHERE department_id < 25;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 57", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 小于 5", "input": "", "output": "SELECT * FROM orders WHERE order_id < 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 49", "input": "", "output": "SELECT * FROM customers WHERE email < 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 大于 29", "input": "", "output": "SELECT * FROM classes WHERE class_name > 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 77", "input": "", "output": "SELECT * FROM students WHERE id = 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 91", "input": "", "output": "SELECT * FROM departments WHERE department_name < 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 99", "input": "", "output": "SELECT * FROM students WHERE grade <> 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 13", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 14", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 95", "input": "", "output": "SELECT * FROM students WHERE id > 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 51", "input": "", "output": "SELECT * FROM orders WHERE price > 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 不等于 38", "input": "", "output": "SELECT * FROM products WHERE category <> 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 2", "input": "", "output": "SELECT * FROM events WHERE date <> 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 97", "input": "", "output": "SELECT * FROM students WHERE age = 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 24", "input": "", "output": "SELECT * FROM students WHERE name > 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 23", "input": "", "output": "SELECT * FROM customers WHERE email <> 23;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 67", "input": "", "output": "SELECT * FROM students WHERE id <> 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 34", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 不等于 53", "input": "", "output": "SELECT * FROM classes WHERE teacher_id <> 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 62", "input": "", "output": "SELECT * FROM customers WHERE email < 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 37", "input": "", "output": "SELECT * FROM students WHERE id <> 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 19", "input": "", "output": "SELECT * FROM events WHERE date = 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 大于 77", "input": "", "output": "SELECT * FROM employees WHERE last_name > 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 36", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 大于 42", "input": "", "output": "SELECT * FROM classes WHERE room_number > 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 40", "input": "", "output": "SELECT * FROM customers WHERE email < 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 大于 11", "input": "", "output": "SELECT * FROM classes WHERE teacher_id > 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 等于 4", "input": "", "output": "SELECT * FROM orders WHERE quantity = 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 93", "input": "", "output": "SELECT * FROM events WHERE event_id = 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 56", "input": "", "output": "SELECT * FROM employees WHERE salary < 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 4", "input": "", "output": "SELECT * FROM employees WHERE last_name < 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 大于 7", "input": "", "output": "SELECT * FROM events WHERE date > 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 52", "input": "", "output": "SELECT * FROM classes WHERE class_id = 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 14", "input": "", "output": "SELECT * FROM students WHERE grade <> 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 80", "input": "", "output": "SELECT * FROM products WHERE category = 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 等于 82", "input": "", "output": "SELECT * FROM classes WHERE room_number = 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 100", "input": "", "output": "SELECT * FROM students WHERE name > 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 51", "input": "", "output": "SELECT * FROM students WHERE age <> 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 2", "input": "", "output": "SELECT * FROM products WHERE product_id > 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 97", "input": "", "output": "SELECT * FROM students WHERE age = 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 不等于 50", "input": "", "output": "SELECT * FROM classes WHERE class_id <> 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 98", "input": "", "output": "SELECT * FROM orders WHERE product_name < 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 不等于 5", "input": "", "output": "SELECT * FROM orders WHERE price <> 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 94", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 大于 58", "input": "", "output": "SELECT * FROM classes WHERE room_number > 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 74", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 大于 57", "input": "", "output": "SELECT * FROM classes WHERE class_name > 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 18", "input": "", "output": "SELECT * FROM customers WHERE email < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 75", "input": "", "output": "SELECT * FROM products WHERE category = 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 3", "input": "", "output": "SELECT * FROM customers WHERE last_name = 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 100", "input": "", "output": "SELECT * FROM orders WHERE price < 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 大于 56", "input": "", "output": "SELECT * FROM students WHERE age > 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 40", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 61", "input": "", "output": "SELECT * FROM orders WHERE quantity < 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 76", "input": "", "output": "SELECT * FROM events WHERE location < 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 大于 89", "input": "", "output": "SELECT * FROM employees WHERE salary > 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 22", "input": "", "output": "SELECT * FROM students WHERE id = 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 不等于 1", "input": "", "output": "SELECT * FROM orders WHERE price <> 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 33", "input": "", "output": "SELECT * FROM students WHERE grade <> 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 13", "input": "", "output": "SELECT * FROM departments WHERE department_name < 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 不等于 34", "input": "", "output": "SELECT * FROM classes WHERE teacher_id <> 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 等于 27", "input": "", "output": "SELECT * FROM classes WHERE room_number = 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 小于 97", "input": "", "output": "SELECT * FROM products WHERE stock < 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 85", "input": "", "output": "SELECT * FROM departments WHERE department_name > 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 10", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 19", "input": "", "output": "SELECT * FROM students WHERE id > 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 等于 84", "input": "", "output": "SELECT * FROM products WHERE product_name = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 95", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 49", "input": "", "output": "SELECT * FROM products WHERE product_name > 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 9", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 39", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 45", "input": "", "output": "SELECT * FROM departments WHERE department_id < 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 大于 91", "input": "", "output": "SELECT * FROM classes WHERE class_name > 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 大于 38", "input": "", "output": "SELECT * FROM students WHERE age > 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 大于 88", "input": "", "output": "SELECT * FROM orders WHERE quantity > 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 64", "input": "", "output": "SELECT * FROM employees WHERE first_name = 64;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 小于 28", "input": "", "output": "SELECT * FROM events WHERE event_id < 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 43", "input": "", "output": "SELECT * FROM customers WHERE email > 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 63", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 大于 6", "input": "", "output": "SELECT * FROM classes WHERE room_number > 6;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 7", "input": "", "output": "SELECT * FROM departments WHERE department_name = 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 11", "input": "", "output": "SELECT * FROM events WHERE date <> 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 46", "input": "", "output": "SELECT * FROM events WHERE event_name < 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 不等于 93", "input": "", "output": "SELECT * FROM classes WHERE class_name <> 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 小于 50", "input": "", "output": "SELECT * FROM customers WHERE customer_id < 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 39", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 61", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 41", "input": "", "output": "SELECT * FROM events WHERE event_name <> 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 小于 91", "input": "", "output": "SELECT * FROM students WHERE grade < 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 小于 19", "input": "", "output": "SELECT * FROM classes WHERE room_number < 19;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 大于 50", "input": "", "output": "SELECT * FROM events WHERE date > 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 96", "input": "", "output": "SELECT * FROM students WHERE age <> 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 100", "input": "", "output": "SELECT * FROM orders WHERE price < 100;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 77", "input": "", "output": "SELECT * FROM students WHERE name > 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 等于 86", "input": "", "output": "SELECT * FROM events WHERE event_id = 86;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 99", "input": "", "output": "SELECT * FROM customers WHERE first_name = 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 84", "input": "", "output": "SELECT * FROM students WHERE age <> 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 大于 49", "input": "", "output": "SELECT * FROM classes WHERE teacher_id > 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 81", "input": "", "output": "SELECT * FROM products WHERE stock > 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 42", "input": "", "output": "SELECT * FROM events WHERE location = 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 63", "input": "", "output": "SELECT * FROM orders WHERE price < 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 73", "input": "", "output": "SELECT * FROM orders WHERE price > 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 27", "input": "", "output": "SELECT * FROM departments WHERE department_name = 27;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 17", "input": "", "output": "SELECT * FROM customers WHERE email > 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 58", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 47", "input": "", "output": "SELECT * FROM students WHERE id < 47;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 24", "input": "", "output": "SELECT * FROM products WHERE product_id = 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 不等于 49", "input": "", "output": "SELECT * FROM classes WHERE teacher_id <> 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 等于 14", "input": "", "output": "SELECT * FROM departments WHERE department_id = 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 93", "input": "", "output": "SELECT * FROM departments WHERE department_name = 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 大于 34", "input": "", "output": "SELECT * FROM employees WHERE salary > 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 等于 67", "input": "", "output": "SELECT * FROM employees WHERE salary = 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 大于 59", "input": "", "output": "SELECT * FROM employees WHERE last_name > 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 1", "input": "", "output": "SELECT * FROM events WHERE event_name = 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 99", "input": "", "output": "SELECT * FROM products WHERE product_id = 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 15", "input": "", "output": "SELECT * FROM employees WHERE first_name = 15;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 不等于 2", "input": "", "output": "SELECT * FROM products WHERE category <> 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 小于 58", "input": "", "output": "SELECT * FROM products WHERE stock < 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 小于 48", "input": "", "output": "SELECT * FROM products WHERE stock < 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 大于 29", "input": "", "output": "SELECT * FROM events WHERE location > 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 大于 43", "input": "", "output": "SELECT * FROM classes WHERE class_name > 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 40", "input": "", "output": "SELECT * FROM students WHERE age = 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 68", "input": "", "output": "SELECT * FROM orders WHERE quantity < 68;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 不等于 49", "input": "", "output": "SELECT * FROM classes WHERE class_id <> 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 38", "input": "", "output": "SELECT * FROM classes WHERE class_id = 38;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 60", "input": "", "output": "SELECT * FROM events WHERE event_name <> 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 小于 24", "input": "", "output": "SELECT * FROM employees WHERE first_name < 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 等于 83", "input": "", "output": "SELECT * FROM products WHERE stock = 83;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 31", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 31;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 40", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 2", "input": "", "output": "SELECT * FROM employees WHERE last_name < 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 18", "input": "", "output": "SELECT * FROM events WHERE date <> 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 40", "input": "", "output": "SELECT * FROM orders WHERE quantity < 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 74", "input": "", "output": "SELECT * FROM students WHERE id = 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 不等于 44", "input": "", "output": "SELECT * FROM classes WHERE class_name <> 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 28", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 88", "input": "", "output": "SELECT * FROM students WHERE id <> 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 84", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 小于 52", "input": "", "output": "SELECT * FROM products WHERE product_name < 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 5", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 大于 34", "input": "", "output": "SELECT * FROM classes WHERE class_id > 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 15", "input": "", "output": "SELECT * FROM events WHERE event_name < 15;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 小于 8", "input": "", "output": "SELECT * FROM classes WHERE class_name < 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 59", "input": "", "output": "SELECT * FROM events WHERE event_id <> 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 小于 57", "input": "", "output": "SELECT * FROM employees WHERE salary < 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 大于 82", "input": "", "output": "SELECT * FROM departments WHERE department_id > 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 49", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 45", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 96", "input": "", "output": "SELECT * FROM students WHERE age <> 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 80", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 不等于 58", "input": "", "output": "SELECT * FROM products WHERE category <> 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 17", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 73", "input": "", "output": "SELECT * FROM customers WHERE email < 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 等于 40", "input": "", "output": "SELECT * FROM classes WHERE class_name = 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 64", "input": "", "output": "SELECT * FROM orders WHERE price < 64;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 小于 22", "input": "", "output": "SELECT * FROM orders WHERE price < 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 54", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 54;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 55", "input": "", "output": "SELECT * FROM students WHERE id <> 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 16", "input": "", "output": "SELECT * FROM events WHERE event_id <> 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 24", "input": "", "output": "SELECT * FROM orders WHERE quantity < 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 等于 98", "input": "", "output": "SELECT * FROM students WHERE name = 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 大于 60", "input": "", "output": "SELECT * FROM students WHERE age > 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 小于 35", "input": "", "output": "SELECT * FROM students WHERE age < 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 不等于 86", "input": "", "output": "SELECT * FROM customers WHERE email <> 86;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 67", "input": "", "output": "SELECT * FROM customers WHERE email > 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 76", "input": "", "output": "SELECT * FROM customers WHERE email < 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 22", "input": "", "output": "SELECT * FROM orders WHERE quantity < 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 不等于 26", "input": "", "output": "SELECT * FROM customers WHERE last_name <> 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 不等于 99", "input": "", "output": "SELECT * FROM students WHERE name <> 99;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 等于 42", "input": "", "output": "SELECT * FROM products WHERE stock = 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 小于 48", "input": "", "output": "SELECT * FROM students WHERE age < 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 75", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 11", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 7", "input": "", "output": "SELECT * FROM students WHERE age = 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 8", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 45", "input": "", "output": "SELECT * FROM students WHERE name > 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 小于 78", "input": "", "output": "SELECT * FROM events WHERE date < 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 80", "input": "", "output": "SELECT * FROM customers WHERE last_name > 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 小于 36", "input": "", "output": "SELECT * FROM students WHERE grade < 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 18", "input": "", "output": "SELECT * FROM departments WHERE department_name > 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 41", "input": "", "output": "SELECT * FROM departments WHERE department_name > 41;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 60", "input": "", "output": "SELECT * FROM customers WHERE last_name > 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 72", "input": "", "output": "SELECT * FROM events WHERE date = 72;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 52", "input": "", "output": "SELECT * FROM events WHERE location <> 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 小于 23", "input": "", "output": "SELECT * FROM customers WHERE last_name < 23;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 20", "input": "", "output": "SELECT * FROM customers WHERE last_name = 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 33", "input": "", "output": "SELECT * FROM employees WHERE first_name = 33;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 56", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 89", "input": "", "output": "SELECT * FROM products WHERE product_name <> 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 58", "input": "", "output": "SELECT * FROM events WHERE event_name > 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 34", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 大于 21", "input": "", "output": "SELECT * FROM events WHERE date > 21;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 65", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 68", "input": "", "output": "SELECT * FROM customers WHERE first_name = 68;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 大于 93", "input": "", "output": "SELECT * FROM events WHERE location > 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 小于 4", "input": "", "output": "SELECT * FROM products WHERE product_name < 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 大于 67", "input": "", "output": "SELECT * FROM customers WHERE last_name > 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 58", "input": "", "output": "SELECT * FROM students WHERE id = 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 29", "input": "", "output": "SELECT * FROM departments WHERE department_name < 29;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 79", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 79;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 等于 62", "input": "", "output": "SELECT * FROM classes WHERE teacher_id = 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 小于 25", "input": "", "output": "SELECT * FROM classes WHERE class_id < 25;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 小于 43", "input": "", "output": "SELECT * FROM students WHERE age < 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 56", "input": "", "output": "SELECT * FROM classes WHERE class_id = 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 14", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 76", "input": "", "output": "SELECT * FROM students WHERE id > 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 小于 43", "input": "", "output": "SELECT * FROM events WHERE date < 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 不等于 50", "input": "", "output": "SELECT * FROM employees WHERE salary <> 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 等于 39", "input": "", "output": "SELECT * FROM employees WHERE emp_id = 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 32", "input": "", "output": "SELECT * FROM students WHERE name < 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 30", "input": "", "output": "SELECT * FROM students WHERE id = 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 43", "input": "", "output": "SELECT * FROM events WHERE event_name = 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 20", "input": "", "output": "SELECT * FROM orders WHERE product_name < 20;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 51", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 等于 48", "input": "", "output": "SELECT * FROM events WHERE location = 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 22", "input": "", "output": "SELECT * FROM students WHERE name < 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 42", "input": "", "output": "SELECT * FROM departments WHERE department_name = 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 小于 1", "input": "", "output": "SELECT * FROM customers WHERE customer_id < 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 39", "input": "", "output": "SELECT * FROM employees WHERE last_name < 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 大于 86", "input": "", "output": "SELECT * FROM products WHERE product_id > 86;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 75", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 83", "input": "", "output": "SELECT * FROM departments WHERE department_name > 83;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 小于 36", "input": "", "output": "SELECT * FROM classes WHERE class_name < 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 2", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 2;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 26", "input": "", "output": "SELECT * FROM products WHERE product_name <> 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 74", "input": "", "output": "SELECT * FROM students WHERE age <> 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 9", "input": "", "output": "SELECT * FROM products WHERE product_name <> 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 55", "input": "", "output": "SELECT * FROM customers WHERE last_name = 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 不等于 89", "input": "", "output": "SELECT * FROM classes WHERE class_id <> 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 84", "input": "", "output": "SELECT * FROM customers WHERE first_name = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 32", "input": "", "output": "SELECT * FROM customers WHERE email > 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 18", "input": "", "output": "SELECT * FROM products WHERE product_id = 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 大于 61", "input": "", "output": "SELECT * FROM classes WHERE class_id > 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 大于 79", "input": "", "output": "SELECT * FROM classes WHERE class_name > 79;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 55", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 55;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 等于 83", "input": "", "output": "SELECT * FROM orders WHERE order_id = 83;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 15", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 15;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 52", "input": "", "output": "SELECT * FROM products WHERE stock > 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 不等于 91", "input": "", "output": "SELECT * FROM orders WHERE order_id <> 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 不等于 51", "input": "", "output": "SELECT * FROM orders WHERE price <> 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 78", "input": "", "output": "SELECT * FROM customers WHERE email = 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 76", "input": "", "output": "SELECT * FROM events WHERE event_name = 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 58", "input": "", "output": "SELECT * FROM customers WHERE email = 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 80", "input": "", "output": "SELECT * FROM events WHERE event_name < 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 60", "input": "", "output": "SELECT * FROM products WHERE product_name > 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 等于 46", "input": "", "output": "SELECT * FROM employees WHERE salary = 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 大于 24", "input": "", "output": "SELECT * FROM customers WHERE email > 24;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 32", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 大于 10", "input": "", "output": "SELECT * FROM students WHERE id > 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 48", "input": "", "output": "SELECT * FROM orders WHERE product_name < 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 等于 34", "input": "", "output": "SELECT * FROM students WHERE name = 34;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 不等于 74", "input": "", "output": "SELECT * FROM students WHERE name <> 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 不等于 59", "input": "", "output": "SELECT * FROM employees WHERE first_name <> 59;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 16", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 不等于 86", "input": "", "output": "SELECT * FROM orders WHERE product_name <> 86;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 28", "input": "", "output": "SELECT * FROM events WHERE event_name <> 28;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 96", "input": "", "output": "SELECT * FROM events WHERE event_id <> 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 大于 63", "input": "", "output": "SELECT * FROM students WHERE age > 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 22", "input": "", "output": "SELECT * FROM events WHERE event_id <> 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 大于 67", "input": "", "output": "SELECT * FROM events WHERE event_id > 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 小于 17", "input": "", "output": "SELECT * FROM customers WHERE last_name < 17;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 35", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 等于 94", "input": "", "output": "SELECT * FROM departments WHERE department_id = 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 40", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 46", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 大于 84", "input": "", "output": "SELECT * FROM classes WHERE class_id > 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 不等于 92", "input": "", "output": "SELECT * FROM employees WHERE first_name <> 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 小于 9", "input": "", "output": "SELECT * FROM departments WHERE department_id < 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 16", "input": "", "output": "SELECT * FROM products WHERE stock > 16;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 98", "input": "", "output": "SELECT * FROM events WHERE location <> 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 49", "input": "", "output": "SELECT * FROM employees WHERE first_name = 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：stock 大于 5", "input": "", "output": "SELECT * FROM products WHERE stock > 5;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 等于 96", "input": "", "output": "SELECT * FROM customers WHERE first_name = 96;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 93", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 不等于 49", "input": "", "output": "SELECT * FROM orders WHERE price <> 49;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 78", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 小于 93", "input": "", "output": "SELECT * FROM orders WHERE order_id < 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 不等于 98", "input": "", "output": "SELECT * FROM employees WHERE emp_id <> 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 60", "input": "", "output": "SELECT * FROM students WHERE id = 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 大于 93", "input": "", "output": "SELECT * FROM employees WHERE last_name > 93;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 等于 39", "input": "", "output": "SELECT * FROM events WHERE event_name = 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 94", "input": "", "output": "SELECT * FROM products WHERE category > 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 等于 85", "input": "", "output": "SELECT * FROM departments WHERE manager_id = 85;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 等于 53", "input": "", "output": "SELECT * FROM products WHERE product_id = 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 8", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 8", "input": "", "output": "SELECT * FROM employees WHERE last_name < 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 小于 65", "input": "", "output": "SELECT * FROM orders WHERE quantity < 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 不等于 8", "input": "", "output": "SELECT * FROM orders WHERE quantity <> 8;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 等于 66", "input": "", "output": "SELECT * FROM orders WHERE order_id = 66;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 大于 68", "input": "", "output": "SELECT * FROM events WHERE event_id > 68;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 18", "input": "", "output": "SELECT * FROM students WHERE id < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 等于 95", "input": "", "output": "SELECT * FROM customers WHERE last_name = 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 大于 81", "input": "", "output": "SELECT * FROM orders WHERE price > 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 等于 87", "input": "", "output": "SELECT * FROM departments WHERE department_id = 87;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 18", "input": "", "output": "SELECT * FROM events WHERE event_name < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 44", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 18", "input": "", "output": "SELECT * FROM students WHERE name < 18;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 不等于 9", "input": "", "output": "SELECT * FROM products WHERE product_id <> 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 大于 7", "input": "", "output": "SELECT * FROM customers WHERE customer_id > 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 6", "input": "", "output": "SELECT * FROM events WHERE event_name > 6;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 53", "input": "", "output": "SELECT * FROM students WHERE name < 53;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 大于 76", "input": "", "output": "SELECT * FROM employees WHERE emp_id > 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 不等于 90", "input": "", "output": "SELECT * FROM students WHERE grade <> 90;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 71", "input": "", "output": "SELECT * FROM events WHERE event_id <> 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 不等于 80", "input": "", "output": "SELECT * FROM students WHERE age <> 80;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 不等于 83", "input": "", "output": "SELECT * FROM employees WHERE salary <> 83;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 40", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 40;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：last_name 小于 30", "input": "", "output": "SELECT * FROM customers WHERE last_name < 30;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 67", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 67;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 小于 88", "input": "", "output": "SELECT * FROM products WHERE product_name < 88;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 小于 1", "input": "", "output": "SELECT * FROM employees WHERE last_name < 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 91", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 65", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 不等于 91", "input": "", "output": "SELECT * FROM classes WHERE room_number <> 91;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 97", "input": "", "output": "SELECT * FROM products WHERE category = 97;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_id 小于 42", "input": "", "output": "SELECT * FROM products WHERE product_id < 42;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 12", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 12;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 小于 22", "input": "", "output": "SELECT * FROM students WHERE grade < 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 大于 43", "input": "", "output": "SELECT * FROM orders WHERE product_name > 43;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 等于 32", "input": "", "output": "SELECT * FROM orders WHERE price = 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 大于 98", "input": "", "output": "SELECT * FROM employees WHERE salary > 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：room_number 不等于 73", "input": "", "output": "SELECT * FROM classes WHERE room_number <> 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 57", "input": "", "output": "SELECT * FROM orders WHERE product_name = 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 89", "input": "", "output": "SELECT * FROM orders WHERE product_name < 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 50", "input": "", "output": "SELECT * FROM events WHERE date = 50;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 11", "input": "", "output": "SELECT * FROM orders WHERE product_name < 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 11", "input": "", "output": "SELECT * FROM products WHERE category > 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 56", "input": "", "output": "SELECT * FROM orders WHERE product_name < 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 大于 14", "input": "", "output": "SELECT * FROM students WHERE age > 14;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 9", "input": "", "output": "SELECT * FROM departments WHERE department_name > 9;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 小于 45", "input": "", "output": "SELECT * FROM classes WHERE teacher_id < 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 等于 61", "input": "", "output": "SELECT * FROM customers WHERE email = 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 81", "input": "", "output": "SELECT * FROM classes WHERE class_id = 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 小于 37", "input": "", "output": "SELECT * FROM students WHERE grade < 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 不等于 57", "input": "", "output": "SELECT * FROM classes WHERE teacher_id <> 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 95", "input": "", "output": "SELECT * FROM events WHERE location <> 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 95", "input": "", "output": "SELECT * FROM products WHERE product_name > 95;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 7", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 7;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 52", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 81", "input": "", "output": "SELECT * FROM employees WHERE last_name = 81;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 大于 4", "input": "", "output": "SELECT * FROM students WHERE name > 4;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：price 不等于 3", "input": "", "output": "SELECT * FROM orders WHERE price <> 3;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 73", "input": "", "output": "SELECT * FROM orders WHERE product_name = 73;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 不等于 92", "input": "", "output": "SELECT * FROM students WHERE name <> 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 等于 89", "input": "", "output": "SELECT * FROM products WHERE category = 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：teacher_id 大于 84", "input": "", "output": "SELECT * FROM classes WHERE teacher_id > 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 小于 46", "input": "", "output": "SELECT * FROM events WHERE location < 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 大于 36", "input": "", "output": "SELECT * FROM orders WHERE order_id > 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 46", "input": "", "output": "SELECT * FROM students WHERE id < 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 56", "input": "", "output": "SELECT * FROM departments WHERE department_name = 56;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 大于 92", "input": "", "output": "SELECT * FROM departments WHERE department_name > 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 等于 77", "input": "", "output": "SELECT * FROM orders WHERE order_id = 77;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 等于 23", "input": "", "output": "SELECT * FROM students WHERE id = 23;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 71", "input": "", "output": "SELECT * FROM orders WHERE product_name = 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：category 大于 57", "input": "", "output": "SELECT * FROM products WHERE category > 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 大于 52", "input": "", "output": "SELECT * FROM employees WHERE last_name > 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 等于 22", "input": "", "output": "SELECT * FROM customers WHERE customer_id = 22;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 小于 76", "input": "", "output": "SELECT * FROM departments WHERE manager_id < 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 46", "input": "", "output": "SELECT * FROM students WHERE id < 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 不等于 36", "input": "", "output": "SELECT * FROM employees WHERE last_name <> 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 等于 31", "input": "", "output": "SELECT * FROM students WHERE grade = 31;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：email 小于 13", "input": "", "output": "SELECT * FROM customers WHERE email < 13;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 大于 61", "input": "", "output": "SELECT * FROM classes WHERE class_id > 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 等于 15", "input": "", "output": "SELECT * FROM events WHERE date = 15;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 35", "input": "", "output": "SELECT * FROM events WHERE event_id <> 35;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 62", "input": "", "output": "SELECT * FROM departments WHERE department_name = 62;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：customer_id 不等于 61", "input": "", "output": "SELECT * FROM customers WHERE customer_id <> 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_name 等于 36", "input": "", "output": "SELECT * FROM classes WHERE class_name = 36;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 39", "input": "", "output": "SELECT * FROM events WHERE location <> 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：grade 大于 98", "input": "", "output": "SELECT * FROM students WHERE grade > 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 大于 69", "input": "", "output": "SELECT * FROM events WHERE event_name > 69;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 94", "input": "", "output": "SELECT * FROM departments WHERE department_name = 94;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 小于 58", "input": "", "output": "SELECT * FROM customers WHERE first_name < 58;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 92", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 92;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：quantity 等于 44", "input": "", "output": "SELECT * FROM orders WHERE quantity = 44;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 不等于 63", "input": "", "output": "SELECT * FROM customers WHERE first_name <> 63;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 小于 61", "input": "", "output": "SELECT * FROM departments WHERE department_name < 61;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 等于 26", "input": "", "output": "SELECT * FROM orders WHERE product_name = 26;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：order_id 小于 52", "input": "", "output": "SELECT * FROM orders WHERE order_id < 52;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 21", "input": "", "output": "SELECT * FROM events WHERE event_id <> 21;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 大于 48", "input": "", "output": "SELECT * FROM events WHERE event_id > 48;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 不等于 46", "input": "", "output": "SELECT * FROM employees WHERE salary <> 46;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：customers\n列名：customer_id, first_name, last_name, email\n查询条件：first_name 大于 32", "input": "", "output": "SELECT * FROM customers WHERE first_name > 32;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 小于 11", "input": "", "output": "SELECT * FROM events WHERE event_name < 11;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 大于 65", "input": "", "output": "SELECT * FROM classes WHERE class_id > 65;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_name 不等于 45", "input": "", "output": "SELECT * FROM events WHERE event_name <> 45;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 小于 37", "input": "", "output": "SELECT * FROM students WHERE id < 37;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 小于 82", "input": "", "output": "SELECT * FROM events WHERE date < 82;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 76", "input": "", "output": "SELECT * FROM orders WHERE product_name < 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：last_name 等于 25", "input": "", "output": "SELECT * FROM employees WHERE last_name = 25;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 1", "input": "", "output": "SELECT * FROM events WHERE event_id <> 1;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 不等于 90", "input": "", "output": "SELECT * FROM products WHERE product_name <> 90;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：first_name 等于 87", "input": "", "output": "SELECT * FROM employees WHERE first_name = 87;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：id 不等于 76", "input": "", "output": "SELECT * FROM students WHERE id <> 76;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 74", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 不等于 75", "input": "", "output": "SELECT * FROM departments WHERE department_name <> 75;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 不等于 68", "input": "", "output": "SELECT * FROM events WHERE date <> 68;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 84", "input": "", "output": "SELECT * FROM events WHERE location <> 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 不等于 12", "input": "", "output": "SELECT * FROM departments WHERE department_id <> 12;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：products\n列名：product_id, product_name, category, stock\n查询条件：product_name 大于 51", "input": "", "output": "SELECT * FROM products WHERE product_name > 51;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：location 不等于 74", "input": "", "output": "SELECT * FROM events WHERE location <> 74;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 不等于 78", "input": "", "output": "SELECT * FROM departments WHERE manager_id <> 78;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 小于 89", "input": "", "output": "SELECT * FROM students WHERE name < 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 大于 66", "input": "", "output": "SELECT * FROM students WHERE age > 66;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：manager_id 大于 71", "input": "", "output": "SELECT * FROM departments WHERE manager_id > 71;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：event_id 不等于 39", "input": "", "output": "SELECT * FROM events WHERE event_id <> 39;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：salary 等于 98", "input": "", "output": "SELECT * FROM employees WHERE salary = 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 大于 10", "input": "", "output": "SELECT * FROM events WHERE date > 10;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：classes\n列名：class_id, class_name, teacher_id, room_number\n查询条件：class_id 等于 89", "input": "", "output": "SELECT * FROM classes WHERE class_id = 89;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：employees\n列名：emp_id, first_name, last_name, salary\n查询条件：emp_id 小于 60", "input": "", "output": "SELECT * FROM employees WHERE emp_id < 60;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_name 等于 98", "input": "", "output": "SELECT * FROM departments WHERE department_name = 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：name 等于 84", "input": "", "output": "SELECT * FROM students WHERE name = 84;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：orders\n列名：order_id, product_name, quantity, price\n查询条件：product_name 小于 12", "input": "", "output": "SELECT * FROM orders WHERE product_name < 12;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：departments\n列名：department_id, department_name, manager_id\n查询条件：department_id 大于 57", "input": "", "output": "SELECT * FROM departments WHERE department_id > 57;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：students\n列名：id, name, age, grade\n查询条件：age 等于 98", "input": "", "output": "SELECT * FROM students WHERE age = 98;"}
+{"instruction": "根据以下的表格内容和查询条件，写出相应的SQL查询语句。\n表格名称：events\n列名：event_id, event_name, date, location\n查询条件：date 大于 33", "input": "", "output": "SELECT * FROM events WHERE date > 33;"}
